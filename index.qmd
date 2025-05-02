@@ -2,7 +2,7 @@
 title: "Stylometry Against Stylometry"
 subtitle: "Testing Plato’s Chronology with Phylogenetic Methods"
 author: Olga Alieva
-date: 05/28/2025
+date: 2025-05-28
 lang: eng
 format: 
   clean-revealjs:

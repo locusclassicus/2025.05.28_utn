@@ -1,7 +1,7 @@
 ---
 title: "Readme"
 author: "Olga Alieva"
-date: 05/28/2025
+date: 2025-05-28
 output: 
   html_document: 
     keep_md: true

@@ -45,7 +45,7 @@ df-print: paged
 ```{r echo=FALSE}
 library(tidyverse)
 library(gt)
-load("~/R_Workflow/2025.05.28_utn/data/dtms.Rdata")
+load("./data/dtms.Rdata")
 dtms[[1]] |> 
   rownames_to_column("title") |> 
   slice_head(n = 5) |>

@@ -2,7 +2,6 @@
 title: "Stylometry Against Stylometry"
 subtitle: "Testing Plato’s Chronology with Phylogenetic Methods"
 author: Olga Alieva
-date: 2025-05-28
 lang: eng
 format: 
   clean-revealjs:
@@ -88,7 +87,7 @@ dtms[[1]] |>
   
 ---
 
-![[Source](https://datasciencedojo.com/blog/bootstrap-sampling/)](https://datasciencedojo.com/wp-content/uploads/bootstrap-scheme.png)
+![](bootstrap-scheme.png)
 
 
 ## 7: Terms You’ll Hear Often
